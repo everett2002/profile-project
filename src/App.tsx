@@ -1,5 +1,5 @@
 import './App.css'
-import { Grid, GridItem, Center, Container, Spacer, Heading, Stack, Box  } from '@chakra-ui/react'
+import { Grid, GridItem, Center, Container, Spacer, Heading, Box  } from '@chakra-ui/react'
 import Navbar from './components/Navbar.tsx'
 // import TabCard from './components/TabCard.tsx'
 import MainCard from './components/MainCard.tsx'

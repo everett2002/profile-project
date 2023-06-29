@@ -1,6 +1,5 @@
 import { Text, Box, Link } from "@chakra-ui/react"
 import { IconType } from "react-icons";
-import { FaBluetooth } from "react-icons/fa";
 
 
 

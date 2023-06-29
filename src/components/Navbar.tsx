@@ -1,4 +1,4 @@
-import { HStack , Button, Spacer, Heading } from "@chakra-ui/react"
+import { HStack , Spacer, Heading } from "@chakra-ui/react"
 import ColorModeSwitch from "./ColorModeSwitch"
 
 
